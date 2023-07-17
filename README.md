@@ -10,7 +10,7 @@ git clone https://github.com/Keely1112/MyFirstReactForm.git
 
 2.開啟terminal
 ```
-cd my-ac-form
+cd MyFirstReactForm
 ```
 
 3.安裝npm套件
